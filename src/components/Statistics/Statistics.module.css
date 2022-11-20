@@ -1,0 +1,12 @@
+.statistics__wrapper {
+    width: 180px;
+}
+
+.total {
+    font-weight: 600;
+}
+
+.positive {
+    font-weight: 600;
+    color: green;
+}
